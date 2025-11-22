@@ -1,0 +1,14 @@
+# Stakeholder Analysis
+
+| Stakeholder        | Role                    | Interest  | Influence |
+|--------------------|-------------------------|-----------|-----------|
+| HR Manager         | Initiative Lead         | High      | High      |
+| Senior Management  | Decision Makers         | High      | High      |
+| Employees          | Program Participants    | High      | Medium    |
+| Department Heads   | Implementers            | Medium    | Medium    |
+| IT Support         | Data and Systems        | Low       | Low       |
+
+## Notes  
+- HR, Senior Management - Decisions and Resource allocation.  
+- Employees - Feedback and Adoption.  
+- Department Heads - On-ground implementation.
