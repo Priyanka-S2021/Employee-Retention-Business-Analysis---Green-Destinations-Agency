@@ -1,0 +1,28 @@
+# Employee Retention Initiative
+
+This repository contains all documentation related to the Employee Retention Initiative at Green Destinations Travel Agency. 
+The project focuses on analyzing and reducing employee attrition through targeted strategies that improve onboarding, engagement, career development, and communication.
+
+## Folder Structure
+
+- Vision and scope – Project vision and scope.  
+- Stakeholder analysis – Identification and analysis of stakeholders.  
+- Business requirements – Functional and non-functional requirements.  
+- User story – User stories with acceptance criteria.  
+- Process flows
+          - Current (As-Is) 
+          - Proposed (To-Be) process flows.  
+- Data model – Data entities and relationships overview.  
+- Business Regulations – Business rules guiding the initiative.  
+- Risk and gap analysis – Risks and gaps identified.  
+- Traceability matrix – Requirements traceability matrix.  
+- BA plan – Business analysis plan and approach.  
+- Root cause analysis – Root Cause Analysis identifying core reasons for attrition.
+
+
+## How to Use
+Review documents in sequence for a comprehensive understanding of the project. 
+Process flows provide context for improvements. 
+The traceability matrix links requirements to tests for quality assurance.
+
+
