@@ -1,0 +1,57 @@
+DataSet Overview:
+
+### Columns in Raw Dataset
+
+* EmployeeNumber
+* Age
+* Attrition
+* BusinessTravel
+* DailyRate
+* Department
+* DistanceFromHome
+* Education
+* EducationField
+* EmployeeCount
+* EnvironmentSatisfaction
+* Gender
+* HourlyRate
+* JobInvolvement
+* JobLevel
+* JobRole
+* JobSatisfaction
+* MaritalStatus
+* MonthlyIncome
+* MonthlyRate
+* NumCompaniesWorked
+* Over18
+* OverTime
+* PercentSalaryHike
+* PerformanceRating
+* RelationshipSatisfaction
+* StandardHours
+* StockOptionLevel
+* TotalWorkingYears
+* TrainingTimesLastYear
+* WorkLifeBalance
+* YearsAtCompany
+* YearsInCurrentRole
+* YearsSinceLastPromotion
+* YearsWithCurrManager
+
+
+### Relevant Columns Used in Analysis
+
+EmployeeNumber, Age, Attrition, BusinessTravel, DailyRate, Department,
+DistanceFromHome, Education, EducationField, EnvironmentSatisfaction, 
+Gender, HourlyRate, JobInvolvement, JobLevel, JobRole, JobSatisfaction,
+MaritalStatus, MonthlyIncome, MonthlyRate, NumCompaniesWorked, OverTime, 
+PercentSalaryHike, PerformanceRating, RelationshipSatisfaction, StockOptionLevel, 
+TotalWorkingYears, TrainingTimesLastYear, WorkLifeBalance, YearsAtCompany,
+YearsInCurrentRole, YearsSinceLastPromotion, YearsWithCurrManager.
+
+### Irrelevant Columns 
+
+* EmployeeCount, 
+* Over18
+* StandardHours
+
