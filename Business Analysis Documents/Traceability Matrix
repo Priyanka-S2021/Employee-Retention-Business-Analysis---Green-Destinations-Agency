@@ -1,0 +1,8 @@
+# Traceability Matrix
+
+| Requirement ID | Description                                  | Design Reference          | Test Case ID |
+|----------------|----------------------------------------------|---------------------------|--------------|
+| FR-001         | Structured onboarding with mentorship        | Onboarding Process Doc    | TC-001       |
+| FR-002         | Quarterly employee engagement surveys        | Engagement Program Plan   | TC-002       |
+| FR-003         | Career development pathway visibility        | Career Development Guide  | TC-003       |
+| FR-004         | Monthly attrition data analysis and reporting| Analytics Dashboard       | TC-004       |
